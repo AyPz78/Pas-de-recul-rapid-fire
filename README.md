@@ -27,5 +27,10 @@ l'un des jeux mentionnés, je vous suggère d'utiliser l'application console car
 Ils détectent les chaînes dans Dear ImGui et je n'ai pas l'intention de rendre cette version d'ImGui sig proof. 
 Ce n'est pas à cela que sert ce référentiel. Vous avez été prévenu, ne m'ennuyez pas avec vos plaintes d'interdiction 
 arce que vous avez utilisé une triche.
-![image](https://user-images.githubusercontent.com/110671255/199601786-7ab4eaaa-4a02-4faa-95cf-c566e347fffd.png)
+
+
+
+
+
+                     ![image](https://user-images.githubusercontent.com/110671255/199601921-54ccc310-5660-4d2c-934d-dc237304b0dd.png)
 
