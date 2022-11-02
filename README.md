@@ -16,6 +16,9 @@ _UniCoil(*, *);
 _flaggedCOIL(*, *);
 helpers._uniCoilF(keyLMB, *, *);
 helpers._uniCoil(keyRMB, keyLMB, *, *);
+
+
+
 ATTENTION
 L'exécution de ce programme pendant l'exécution de ModernWarfare, Warzone, BOCW ou Vanguard entraînera une interdiction immédiate, que vous l'utilisiez ou non. 
 Tout programme en cours d'exécution qui utilise Dear ImGui vous bannira automatiquement 
